@@ -72,8 +72,8 @@ in
             postman
             awscli2
             herdr
-            anki
             pnpm
+            calibre
           ]
           ++ (with inputs.llm-agents.packages.${pkgs.stdenv.hostPlatform.system}; [
             opencode
