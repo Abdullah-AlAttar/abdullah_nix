@@ -17,7 +17,6 @@
     # Trivial apps — no config files, just the package
     discord
     telegram-desktop
-    microsoft-edge
     vlc
     remmina
     bruno # API testing tool, like Postman but open source and with a nice UI

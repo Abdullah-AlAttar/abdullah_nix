@@ -61,6 +61,7 @@ in
           with pkgs;
           [
             scrcpy
+            microsoft-edge
             libreoffice-qt-stable
             yt-dlp
             freetube
