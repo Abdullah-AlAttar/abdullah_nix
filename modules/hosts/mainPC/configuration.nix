@@ -33,6 +33,8 @@
         # Base hardware + desktop
         self.nixosModules.mainPCHardware
         self.nixosModules.kde
+
+        self.nixosModules.kdeconnect
         # self.nixosModules.hyprland
         # self.nixosModules.cosmic
         # self.nixosModules.niri
