@@ -1,5 +1,5 @@
 # CLI tools aggregator — imports all CLI program modules.
-{pkgs, ...}: {
+{ pkgs, ... }: {
   imports = [
     ./zsh
     ./starship
@@ -27,5 +27,6 @@
     asciinema
     chafa
     glow
+    ast-grep
   ];
 }
